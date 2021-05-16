@@ -47,7 +47,7 @@ Above is what you should see when you click on the link below.
 I learnt a lot of layout techniques in this CSS challenge and how to structure your CSS properly. I discovered how to clip the bg-pattern-card to the card container using overflow: hidden which makes part of the content invisible. This only works for block elements with a specified height.
 I also learnt how to use negative margin-top to pull the img element up and over the containing element.
 
-To see how you can add code snippets, see below:
+Here are some code snippets I am proud of:
 
 ```css
 .card {
