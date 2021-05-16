@@ -130,7 +130,7 @@ body {
 }
 .circles .c1 {
 	top: -500px;
-	left: -60px;
+	left: -250px;
 	max-width: 100%;
 	height: auto;
 	transform: translate(-100px, -50px);
@@ -138,7 +138,7 @@ body {
 
 .circles .c2 {
 	bottom: -500px;
-	right: -60px;
+	right: -250px;
 	max-width: 100%;
 	height: auto;
 	transform: translate(100px, 50px);
